@@ -1,0 +1,26 @@
+************* Module inventory_system
+inventory_system.py:92:0: C0304: Final newline missing (missing-final-newline)
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+inventory_system.py:10:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:16:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:20:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:22:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:24:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:31:16: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:33:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:35:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:42:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:44:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:47:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:54:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:56:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:58:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:66:4: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:70:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.04/10 (previous run: 4.80/10, +2.24)
+
